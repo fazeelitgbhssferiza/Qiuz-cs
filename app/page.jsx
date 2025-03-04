@@ -2,8 +2,8 @@
 
 import { useState } from "react";
 import questions from "./data/questions.json";
-import Quiz from "./Components/Quiz";
-import Result from "./Components/Result";
+import Quiz from "./components/Quiz";
+import Result from "./components/Result";
 // quiz
 export default function App() {
   const [currentQIndex, setCurrentQIndex] = useState(0);
