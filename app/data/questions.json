@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "statement": "1. What does the term emerging technology generally describe?",
+        "options": [
+            "A new technology.",
+            "Advancements in existing technology.",
+            "A new technology and advancements in existing technology",
+            "None of the above"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "id": 2,
+        "statement": "2. What is the distinguishinng feature of a Type-C USB port?",
+        "options": [
+            "It has 24 pins.",
+            "It has no up or down orientation.",
+            "It is used for fast charging.",
+            "It can handle a current of 3A."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "id": 3,
+        "statement": "3. What does  HDMI stand for?",
+        "options": [
+            "High Definition Media Interface.",
+            "High Definition Multimedia Interface.",
+            "Hyper Definition Media Interface.",
+            "Hyper Definition Multimedia Interface."
+        ],
+        "correctOptionIndex": 0
+    }
+    ,
+    {
+        "id": 4,
+        "statement": "4. What is the measure of the resolution of a scanner?",
+        "options": [
+            "Color depth.",
+            "Recognition.",
+            "Dot per Inch.",
+            "Compatibility."
+        ],
+        "correctOptionIndex": 2
+    }
+    ,
+    {
+        "id": 5,
+        "statement": "5. Which type of printer is mostly use as personl printer?",
+        "options": [
+            "Inkjet Printer",
+            "Laser Printer.",
+            "3D Printer.",
+            "LED Printer."
+        ],
+        "correctOptionIndex": 0
+    }
+]
